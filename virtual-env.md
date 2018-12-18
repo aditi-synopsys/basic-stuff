@@ -6,7 +6,7 @@
  
 To install **virtualenv** we are going to use **pip**, pip is a tool to manage and install Python packages. 
 
-`sudo pip3.6 install virtualenv`
+`sudo pip install virtualenv`
 
 To start with every project in python, we will first create a Virtual Environment.  
 
@@ -41,5 +41,5 @@ Note:  If we want to specify python version for our  project then the command lo
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTI0MjA5NzEwLC0xOTA2MDUwNzc4XX0=
+eyJoaXN0b3J5IjpbMTU3NTk3NDQ2MSwtMTkwNjA1MDc3OF19
 -->
